@@ -1613,9 +1613,9 @@
     "restore": {
       "projectUniqueName": "WorkatHome",
       "projectName": "WorkatHome",
-      "projectPath": "C:\\Users\\LG\\Documents\\UiPath\\WorkatHome\\.local",
+      "projectPath": "C:\\Users\\LG\\Documents\\UiPath\\Project_Example_1\\WorkatHome\\.local",
       "packagesPath": "C:\\Users\\LG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LG\\Documents\\UiPath\\WorkatHome\\.local"
+      "outputPath": "C:\\Users\\LG\\Documents\\UiPath\\Project_Example_1\\WorkatHome\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1643,14 +1643,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Extended.Wpf.Toolkit 2.8' from source 'https://gallery.uipath.com/api/v2': This package is signed but not by a trusted signer.",
-      "libraryId": "Extended.Wpf.Toolkit"
-    }
-  ]
+  }
 }
